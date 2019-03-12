@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import parentCom from '@/components/parentCom'
 import childCom from '@/components/childCom'
 
+
 Vue.use(Router)
 
 export default new Router({
