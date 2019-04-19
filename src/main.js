@@ -7,8 +7,8 @@ import router from './router'
  * 首先在入口文件main.js中引入axios
  * 然后挂在Vue的原型
 */
-import axios from 'axios'
-Vue.prototype.axios = axios
+// import axios from 'axios'
+// Vue.prototype.axios = axios
 /**
  * 引入element-ui 
  */
